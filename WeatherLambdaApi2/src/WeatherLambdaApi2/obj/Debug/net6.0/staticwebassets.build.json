@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qcKukOEoX6nmq0kTn+kbVu0Vhr1mEE7K4NXDBHCPvy0=",
+  "Source": "WeatherLambdaApi2",
+  "BasePath": "_content/WeatherLambdaApi2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
